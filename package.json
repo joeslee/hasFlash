@@ -1,0 +1,23 @@
+{
+  "name": "hasFlash",
+  "version": "0.0.0",
+  "description": "Flash support check for browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nullbox/hasFlash"
+  },
+  "keywords": [
+    "flash",
+    "check"
+  ],
+  "author": "Juhani Jaakkola <juhani@Jaakkola.net> (http://juhani.jaakkola.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nullbox/hasFlash/issues"
+  },
+  "homepage": "https://github.com/nullbox/hasFlash"
+}
