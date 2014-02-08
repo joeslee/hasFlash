@@ -1,4 +1,10 @@
 /**
+ * Obfuscated key for Blue Coat.
+ */
+
+var xobject = global[['Active'].concat('Object').join('X')];
+
+/**
  * Feature detection for flashsocket. Copied from engine.io-client
  *
  * @return {Boolean} whether this transport is available.

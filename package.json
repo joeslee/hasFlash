@@ -1,6 +1,6 @@
 {
   "name": "hasflash",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Flash support check for browser",
   "main": "index.js",
   "scripts": {
