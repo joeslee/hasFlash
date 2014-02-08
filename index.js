@@ -9,10 +9,6 @@ module.exports = function(){
     return false;
   }
 
-  if (typeof WebSocket != 'undefined' && !('__initialize' in WebSocket)) {
-    return false;
-  }
-
   if (xobject) {
     var control = null;
     try {
